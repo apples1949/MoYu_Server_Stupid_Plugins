@@ -10,6 +10,6 @@
 	"AlertPlayerToExploits"
 	{
 		"en"		"{red}[{default}Exploit{red}] {green}You can't spawn near end saferoom doors!"
-		"chi"		"{red}[{default}Exploit{red}] {green}你不能在安全门复活复活！"
+		"chi"		"{red}[{default}Exploit{red}] {green}你不能在安全门附近复活！"
 	}
 }
